@@ -1,4 +1,4 @@
-ana-avatar-controller-superbuild
+ismpc_walking-controller-superbuild
 ==
 
 This repository is an extension repository for [mc-rtc-superbuild](https://github.com/mc-rtc/mc-rtc-superbuild)
