@@ -14,7 +14,7 @@ Usage
 
 ```bash
 git clone https://github.com/mc-rtc/mc-rtc-superbuild
-git clone git@github.com:isri-aist/ana-avatar-controller-superbuild mc-rtc-superbuild/extensions/ismpc-walking-superbuild
+git clone git@github.com:antodld/ispmc-walking-superbuild mc-rtc-superbuild/extensions/ismpc-walking-superbuild
 cmake -S mc-rtc-superbuild -B mc-rtc-superbuild/build -DSOURCE_DESTINATION=$HOME/devel/src -DBUILD_DESTINATION=$HOME/devel/build 
 cmake --build mc-rtc-superbuild/build --config RelWithDebInfo
 ```
