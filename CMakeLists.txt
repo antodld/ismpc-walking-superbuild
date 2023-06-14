@@ -18,7 +18,7 @@ AddProject(mc_joystick_plugin
 
 AddProject(ismpc_walking
   GITE adallard/ismpc_walking
-  GIT_TAG origin/topic/lowpass_inputs
+  GIT_TAG origin/main
   DEPENDS FootSteps_Planner mc_state_observation pendulum_feasibility_solver mc_joystick_plugin
 )
 
