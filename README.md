@@ -5,7 +5,6 @@ This repository is an extension repository for [mc-rtc-superbuild](https://githu
 
 It builds:
 
-- Choreonoid fully equipped with HRP robots
 - All dependencies of ismpc_walking
 - ismpc_walking controller
 
